@@ -1,4 +1,3 @@
-<?php // navbar.php — include right after the <body> tag ?>
 <nav class="navbar navbar-dark bg-dark">
     <div class="container">
         <a class="navbar-brand" href="index.php">Student Management</a>
